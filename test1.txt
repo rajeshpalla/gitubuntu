@@ -1,0 +1,10 @@
+git status is perhaps the most used Git command—as you’ll see over the course
+of this book. In simple terms, this command shows the status of your repository.
+It provides a lot of information, such as which files are untracked, which are
+
+Solution
+1 Change directory to the Git repository, such as
+cd /Users/mike/GitInPracticeRedux/.
+2 Ensure that the file GitInPractice.asciidoc is in the current directory.
+3 Run git add GitInPractice.asciidoc. There will be no output.
+

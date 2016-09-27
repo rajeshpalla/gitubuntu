@@ -1,0 +1,6 @@
+tracked and what their changes are, which is the current “branch”, and what the
+status of the current branch is with respect to a “remote” (we’ll discuss branches
+and remotes later). You should frequently check the status of your repository
+
+You’ve added GitInPractice.asciidoc to the index. If you were successful, the output of
+running git status should resemble the following
